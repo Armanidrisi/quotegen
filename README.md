@@ -12,13 +12,13 @@ Quotegen is a Node.js package that provides an easy way to fetch quotes. You can
 You can install Quotegen using npm:
 
 ```BASH
-npm install quotegen
+npm install node-quotegen
 ```
 
 ## 💻 Usage
 
 ```js
-const {getQuote} = require("quotegen");
+const { getQuote } = require("node-quotegen");
 
 // Get a random quote
 const quote = getQuote();
