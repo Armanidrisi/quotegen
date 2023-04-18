@@ -1,0 +1,18 @@
+# Example .npmignore file
+
+# TypeScript source files
+src/
+
+# Development dependencies and scripts
+node_modules/
+package-lock.json
+*.ts
+*.spec.ts
+*.test.ts
+*.config.js
+*.config.ts
+.gitignore
+.editorconfig
+.eslintrc.js
+.prettierignore
+.prettierrc.js
