@@ -1,7 +1,7 @@
 # 📚 Quotegen
 
-[![npm version](https://badge.fury.io/js/quotegen.svg)](https://badge.fury.io/js/quotegen)
-[![Downloads](https://img.shields.io/npm/dt/quotegen.svg)](https://npmjs.com/package/quotegen)
+[![npm version](https://badge.fury.io/js/node-quotegen.svg)](https://badge.fury.io/js/node-quotegen)
+[![Downloads](https://img.shields.io/npm/dt/node-quotegen.svg)](https://npmjs.com/package/node-quotegen)
 [![GitHub stars](https://img.shields.io/github/stars/Armanidrisi/quotegen.svg)](https://github.com/Armanidrisi/quotegen/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/Armanidrisi/quotegen.svg)](https://github.com/Armanidrisi/quotegen/issues)
 
