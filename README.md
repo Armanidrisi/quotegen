@@ -21,11 +21,11 @@ npm install quotegen
 const {getQuote} = require("quotegen");
 
 // Get a random quote
-const quote = quotegen.getQuote();
+const quote = getQuote();
 console.log(quote);
 
 // Get a quote from a specific category
-const quoteFromCategory = quotegen.getQuote("motivational");
+const quoteFromCategory = getQuote("motivational");
 console.log(quoteFromCategory);
 ```
 
