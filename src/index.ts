@@ -1,5 +1,4 @@
 import { allquotes } from "./data";
-import * as fs from "fs";
 import { CategoryNotFoundError } from "./exception";
 
 function getrandom<T>(arr: T[]): T {
