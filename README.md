@@ -4,6 +4,8 @@
 [![Downloads](https://img.shields.io/npm/dt/node-quotegen.svg)](https://npmjs.com/package/node-quotegen)
 [![GitHub stars](https://img.shields.io/github/stars/Armanidrisi/quotegen.svg)](https://github.com/Armanidrisi/quotegen/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/Armanidrisi/quotegen.svg)](https://github.com/Armanidrisi/quotegen/issues)
+[![GitHub license](https://img.shields.io/github/license/Armanidrisi/quotegen)](https://github.com/Armanidrisi/quotegen/blob/main/LICENSE)
+
 
 Quotegen is a Node.js package that provides an easy way to fetch quotes. You can get a random quote or a quote from a specific category.
 
@@ -40,6 +42,13 @@ console.log(quoteFromCategory);
 - Funny
 - Technology
 - Motivational
+
+## Features :rocket:
+- Generates random quotes :sparkles:
+- Provides quotes by specific category :bookmark_tabs:
+- Supports multiple categories :notebook_with_decorative_cover:
+- Lightweight and easy to use :muscle:
+
 
 ## 📖 License
 
