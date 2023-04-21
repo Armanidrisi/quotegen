@@ -45,21 +45,11 @@ console.log(quoteFromCategory);
 - Technology
 - Motivational
 
-<<<<<<< HEAD
-## Features 🚀
-
-- Generates random quotes 
-- Provides quotes by specific category
-- Supports multiple categories
-- Lightweight and easy to use
-=======
 ## Features :rocket:
-- Generates random quotes :sparkles:
-- Provides quotes by specific category :bookmark_tabs:
-- Supports multiple categories :notebook_with_decorative_cover:
-- Lightweight and easy to use :muscle:
-
->>>>>>> 5830c5a4777cad2403d892fe363649523ef2213e
+- Generates random quotes ✨
+- Provides quotes by specific category 📑
+- Supports multiple categories 📔
+- Lightweight and easy to use 💪
 
 ## 📖 License
 
