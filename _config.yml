@@ -1,0 +1,12 @@
+theme: jekyll-theme-cayman
+
+title: Node Quote Generator 
+
+show_downloads: true
+
+include: [README.md]
+
+plugins:
+
+  - jemoji
+
